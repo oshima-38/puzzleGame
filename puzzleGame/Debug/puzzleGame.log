@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(37,5): warning MSB4211: プロパティ "IntermediateOutputPath" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" で既に使用されています。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(340,5): warning MSB4211: プロパティ "CleanFile" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" で既に使用されています。
+  main.cpp
+  puzzleGame.vcxproj -> D:\VSProject\puzzleGame\Debug\puzzleGame.exe
